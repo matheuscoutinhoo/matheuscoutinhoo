@@ -1,4 +1,4 @@
-Hello! I'm Matheus Coutinho and you're welcome to my profile!
+- Hello! I'm Matheus Coutinho and you're welcome to my profile!
 
 - 🌱 I’m currently learning python.
 - 😄 Pronouns: He/Him.

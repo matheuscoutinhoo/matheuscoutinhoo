@@ -24,8 +24,5 @@ Hello! I'm Matheus Coutinho and you're welcome to my profile!
   <a href="https://instagram.com/matheusfcn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusfcneto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheuscoutinho-284bb4208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-![Snake animation](https://github.com/matheuscoutinhoo/matheuscoutinhoo/blob/output/github-contribution-grid-snake.svg)
   
 </div>

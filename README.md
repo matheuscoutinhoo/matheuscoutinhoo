@@ -5,7 +5,7 @@ Hello! I'm Matheus Coutinho and you're welcome to my profile!
 
 ##
 
-<div align="center" style="display: inline_block">
+<div align="center">
   <a href="https://github.com/matheuscoutinhoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscoutinhoo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscoutinhoo&layout=compact&langs_count=7&theme=nightowl"/>

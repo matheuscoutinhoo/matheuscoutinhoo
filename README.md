@@ -1,6 +1,6 @@
 - Hello! I'm Matheus Coutinho and you're welcome to my profile!
 
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning javascript.
 - 😄 Pronouns: He/Him.
 
 ##

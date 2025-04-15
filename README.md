@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1 align ="center">Hi! I'm Matheus Coutinho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
-<h3 align="center">I do Front-End/Software Engineering stuff</h3>
+<h3 align="center">I do Back-End/Software Engineering stuff</h3>
 <br>
 
 <img align="right" height="200px" width="200px" alt="GIF" src="https://i.pinimg.com/originals/f2/31/09/f231093d3d710b376cb007b7c72c6b12.gif" />
 
 - 📚 I'm a Computer Science Student at Universidade Federal de Catalão.
 - 📫 Contact me at <strong>matheusfcneto@gmail.com</strong>
-- 🌱 Currently learning TypeScript and enhancing Front-end skills with Vue.js framework.
-- 🤖 I'm a mentor of a FIRST robotics team, the <a href="https://www.instagram.com/amazonasfll" target="_blank">Amazonas</a>.
+- 🌱 Currently learning Golang and enhancing back-end skills.
+- 🤖 I'm a mentor of a FIRST robotics team, the <a href="https://www.instagram.com/haley.fll?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">Haley</a>.
 
 <br>
 <br>
